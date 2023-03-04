@@ -13,7 +13,7 @@ std::cout <<"  [ /////// Have fun ;) ///////] "<<std::endl;
 ======================FRANÇAIS=====================
 
 
-* C'est un de mes premiers exercices en langage c++, j'ai créé un labyrinthe 3d où le joueur(représenté par le "X") doit collecter des objets(représenté par le "!") dans celui-ci pour gagner, le jeu est encore en cours d'amélioration .
+* C'est un de mes premiers exercices en langage c++, j'ai créé un labyrinthe 3d où le joueur(représenté par le "X") doit collecter des objets(représenté par le "!") dans celui-ci pour gagner, le jeu est encore en cours d'amélioration.
 * Merci de votre compréhension.
 * N'hésitez pas à consulter mon code mais tous les droits sont réservés.
 
@@ -21,5 +21,5 @@ std::cout <<" [ /////// Amusez-vous ;) ///////] "<<std::endl;
 
 
 
-======================A Demo/une Demo =====================
+==================A Demo/une Demo===================
 * En suivant ce lien /By following this link : https://youtu.be/LRX-kSnvMnM
